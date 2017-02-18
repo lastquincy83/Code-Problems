@@ -1,3 +1,5 @@
+.idea/*
+\out\*
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
